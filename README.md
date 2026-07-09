@@ -5,11 +5,11 @@ import "./App.css";
 const menu = [
   {
     id: 1,
-    name: "Burrata & Heirloom Tomato",
+    name: "french fries",
     desc: "Creamy burrata, heirloom tomatoes, basil oil.",
-    price: 16,
+    price: 30,
     badge: "Chef's Pick",
-    image: "https://picsum.photos/200?1",
+    image: "https://www.citypng.com/photo/21a7de17/fluffy-french-fries-with-herbs-on-a-bowl-hd-transparent-png",
   },
   {
     id: 2,
